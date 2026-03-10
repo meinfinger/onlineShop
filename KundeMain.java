@@ -17,5 +17,8 @@ public class KundeMain {
 
         k2.setAnschrift(a1);
         k2.kundenProfilAnzeigen();
+
+
+        
     }
 }
